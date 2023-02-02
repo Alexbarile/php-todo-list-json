@@ -9,7 +9,7 @@ createApp({
         }
     },
 
-    // funzione per aggiungere elementi nella lista
+    // funzione per AGGIUNGERE elementi nella lista
 
     methods: {
         addTodoList() {
